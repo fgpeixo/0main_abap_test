@@ -12,3 +12,4 @@ write: / 'Testing commits in local repo.'.
 write: / 'Testing commits in local repo 2'.
 write: / 'dev branch'.
 write: / 'dev branch2'.
+write: / 'rebase test.'.
